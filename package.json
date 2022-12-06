@@ -1,7 +1,7 @@
 {
   "name": "dave_gray_tut",
   "version": "0.1.0",
-  "homepage":"https://nikolasfuruta.github.io/react_projetc01",
+  "homepage":"http://nikolasfuruta.github.io/react_projetc01",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
